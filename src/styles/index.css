@@ -57,3 +57,9 @@ a {
 .disable{
     display: none;
 } 
+
+button{
+    float: right;
+    border: none;
+    font-family: 'Inter', sans-serif;
+}
